@@ -44,14 +44,14 @@
 				<true/>
 				<key>port-count</key>
 				<data>
-				EwAAAA==
+				FAAAAA==
 				</data>
 				<key>ports</key>
 				<dict>
 					<key>HS01</key>
 					<dict>
 						<key>Comment</key>
-						<string>Upper USB 3.0 Type A</string>
+						<string>Upper USB A</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
@@ -61,17 +61,19 @@
 					</dict>
 					<key>HS02</key>
 					<dict>
-						<key>#port</key>
+						<key>Comment</key>
+						<string>USB C</string>
+						<key>UsbConnector</key>
+						<integer>10</integer>
+						<key>port</key>
 						<data>
 						AgAAAA==
 						</data>
-						<key>UsbConnector</key>
-						<integer>3</integer>
 					</dict>
 					<key>HS03</key>
 					<dict>
 						<key>Comment</key>
-						<string>Lower USB 3.0 Type A</string>
+						<string>Lower USB A</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
@@ -100,7 +102,7 @@
 					<key>SS01</key>
 					<dict>
 						<key>Comment</key>
-						<string>Upper USB 3.0 Type A</string>
+						<string>Upper USB A</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
@@ -110,17 +112,19 @@
 					</dict>
 					<key>SS02</key>
 					<dict>
-						<key>#port</key>
+						<key>Comment</key>
+						<string>USB C</string>
+						<key>UsbConnector</key>
+						<integer>10</integer>
+						<key>port</key>
 						<data>
 						EgAAAA==
 						</data>
-						<key>UsbConnector</key>
-						<integer>3</integer>
 					</dict>
 					<key>SS03</key>
 					<dict>
 						<key>Comment</key>
-						<string>Lower USB 3.0 Type A</string>
+						<string>Lower USB A</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
@@ -130,12 +134,14 @@
 					</dict>
 					<key>SS04</key>
 					<dict>
-						<key>#port</key>
+						<key>Comment</key>
+						<string>USB C</string>
+						<key>UsbConnector</key>
+						<integer>10</integer>
+						<key>port</key>
 						<data>
 						FAAAAA==
 						</data>
-						<key>UsbConnector</key>
-						<integer>3</integer>
 					</dict>
 				</dict>
 			</dict>
